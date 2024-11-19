@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIN 10\\Desktop\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96B9EC06-846F-4A90-B6C1-958169EBEA30}|WebApplication1\\WebApplication1.csproj|c:\\users\\win 10\\desktop\\webapplication1\\webapplication1\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B9EC06-846F-4A90-B6C1-958169EBEA30}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B9EC06-846F-4A90-B6C1-958169EBEA30}|WebApplication1\\WebApplication1.csproj|C:\\Users\\WIN 10\\Desktop\\WebApplication1\\webapplication1\\bookrepo\\ibookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B9EC06-846F-4A90-B6C1-958169EBEA30}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\bookrepo\\ibookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B9EC06-846F-4A90-B6C1-958169EBEA30}|WebApplication1\\WebApplication1.csproj|C:\\Users\\WIN 10\\Desktop\\WebApplication1\\webapplication1\\bookrepo\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B9EC06-846F-4A90-B6C1-958169EBEA30}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\bookrepo\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B9EC06-846F-4A90-B6C1-958169EBEA30}|WebApplication1\\WebApplication1.csproj|C:\\Users\\WIN 10\\Desktop\\WebApplication1\\webapplication1\\bookrepo\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B9EC06-846F-4A90-B6C1-958169EBEA30}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\bookrepo\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B9EC06-846F-4A90-B6C1-958169EBEA30}|WebApplication1\\WebApplication1.csproj|C:\\Users\\WIN 10\\Desktop\\WebApplication1\\webapplication1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B9EC06-846F-4A90-B6C1-958169EBEA30}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B9EC06-846F-4A90-B6C1-958169EBEA30}|WebApplication1\\WebApplication1.csproj|C:\\Users\\WIN 10\\Desktop\\WebApplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96B9EC06-846F-4A90-B6C1-958169EBEA30}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WIN 10\\Desktop\\WebApplication1\\WebApplication1\\Migrations\\20241119120129_Bookdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Migrations\\20241119120129_Bookdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B9EC06-846F-4A90-B6C1-958169EBEA30}|WebApplication1\\WebApplication1.csproj|C:\\Users\\WIN 10\\Desktop\\WebApplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B9EC06-846F-4A90-B6C1-958169EBEA30}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B9EC06-846F-4A90-B6C1-958169EBEA30}|WebApplication1\\WebApplication1.csproj|C:\\Users\\WIN 10\\Desktop\\WebApplication1\\webapplication1\\models\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B9EC06-846F-4A90-B6C1-958169EBEA30}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B9EC06-846F-4A90-B6C1-958169EBEA30}|WebApplication1\\WebApplication1.csproj|C:\\Users\\WIN 10\\Desktop\\WebApplication1\\WebApplication1\\Migrations\\20241119120244_Bookdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B9EC06-846F-4A90-B6C1-958169EBEA30}|WebApplication1\\WebApplication1.csproj|solutionrelative:WebApplication1\\Migrations\\20241119120244_Bookdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\WebApplication1\\WebApplication1\\BookRepo\\BookDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookRepo\\BookDto.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\WebApplication1\\WebApplication1\\BookRepo\\BookDto.cs",
+              "RelativeToolTip": "WebApplication1\\BookRepo\\BookDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:54:29.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\BookController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAADAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:13:27.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookRepo.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\WebApplication1\\WebApplication1\\BookRepo\\BookRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookRepo\\BookRepo.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\WebApplication1\\WebApplication1\\BookRepo\\BookRepo.cs*",
+              "RelativeToolTip": "WebApplication1\\BookRepo\\BookRepo.cs*",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:03:34.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBookRepo.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\WebApplication1\\WebApplication1\\BookRepo\\IBookRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookRepo\\IBookRepo.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\WebApplication1\\WebApplication1\\BookRepo\\IBookRepo.cs*",
+              "RelativeToolTip": "WebApplication1\\BookRepo\\IBookRepo.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:03:20.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241119120244_Bookdb.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\WebApplication1\\WebApplication1\\Migrations\\20241119120244_Bookdb.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20241119120244_Bookdb.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\WebApplication1\\WebApplication1\\Migrations\\20241119120244_Bookdb.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20241119120244_Bookdb.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:02:44.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241119120129_Bookdb.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\WebApplication1\\WebApplication1\\Migrations\\20241119120129_Bookdb.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20241119120129_Bookdb.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\WebApplication1\\WebApplication1\\Migrations\\20241119120129_Bookdb.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20241119120129_Bookdb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:01:33.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:57:15.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T11:53:59.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookContext.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\WebApplication1\\WebApplication1\\Models\\BookContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\BookContext.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\WebApplication1\\WebApplication1\\Models\\BookContext.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\BookContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:52:12.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\WebApplication1\\WebApplication1\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\WebApplication1\\WebApplication1\\Models\\Book.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:33:58.27Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
